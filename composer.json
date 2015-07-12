@@ -1,0 +1,6 @@
+{
+	"require-dev":
+	{
+		"mashape/unirest-php": "2.*"
+	}
+}
