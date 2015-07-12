@@ -58,8 +58,7 @@
 		=> getGender() : returns the gender of the candidate in the supplied photo
 		=> getPose() : returns a list of values for determining the candidate's pose in the photo.
 		=> getImageHeight(): returns the height of the image
-		=> getWidthHeight(): returns the width of the imageRace: Black
-Confidence That the candidate is Black: 87.326
+		=> getWidthHeight(): returns the width of the image
 		=> getImageSrc(): returns the url of the image
 		=> getImageID(): returns a unique ID that can be used for identifying this image. (probably in a database or directory)
 
